@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿spring: 
+spring: 
   profiles: 
   active: 
   - dev
