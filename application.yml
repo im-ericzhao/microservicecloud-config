@@ -13,3 +13,5 @@ spring:
   profiles: test
   application:
     name: microservicecloud-config-test
+    
+# test
