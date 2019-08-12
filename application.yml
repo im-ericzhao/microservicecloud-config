@@ -1,4 +1,4 @@
-spring: 
+﻿spring: 
   profiles: 
   active: 
   - dev
@@ -13,5 +13,3 @@ spring:
   profiles: test
   application:
     name: microservicecloud-config-test
-    
-# test
